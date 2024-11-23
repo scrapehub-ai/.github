@@ -104,7 +104,7 @@ ScrapeHub is a powerful, user-friendly web scraping platform that enables users 
 
 ## 🔜 Roadmap
 
-### Phase 1: Foundation (Q2 2024)
+### Phase 1: Foundation 
 - **Backend**
   - Core scraping engine implementation
   - Basic API endpoints
@@ -116,7 +116,7 @@ ScrapeHub is a powerful, user-friendly web scraping platform that enables users 
   - Simple scraping interface
   - Basic results viewer
 
-### Phase 2: Enhanced Features (Q3 2024)
+### Phase 2: Enhanced Features 
 - **Backend**
   - Advanced scraping capabilities
   - Queue system implementation
@@ -128,7 +128,7 @@ ScrapeHub is a powerful, user-friendly web scraping platform that enables users 
   - Enhanced data visualization
   - Batch processing interface
 
-### Phase 3: Enterprise Features (Q4 2024)
+### Phase 3: Enterprise Features
 - **Backend**
   - Multi-tenant architecture
   - Advanced caching system
@@ -140,7 +140,7 @@ ScrapeHub is a powerful, user-friendly web scraping platform that enables users 
   - Advanced analytics
   - White-labeling options
 
-### Phase 4: Scale & Optimize (Q1 2025)
+### Phase 4: Scale & Optimize
 - **Backend**
   - Distributed scraping system
   - Machine learning integration
@@ -152,13 +152,6 @@ ScrapeHub is a powerful, user-friendly web scraping platform that enables users 
   - Advanced reporting
   - Mobile responsiveness
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
