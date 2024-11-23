@@ -2,7 +2,7 @@
 
 > Enterprise-grade web scraping platform for all your data extraction needs
 
-![ScrapeHub Banner](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&q=80&w=2000&h=400)
+![ScrapeHub Banner](scrapehub_banner.jpg)
 
 ## 🚀 Overview
 
